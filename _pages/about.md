@@ -1,4 +1,12 @@
-## About me
+---
+permalink: /
+title: "About Me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am Yuanfei Wang, a first-year Master student majoring in Computer Science at Peking University. I am currently a member of [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/index.htm), working with my advisor Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm).
 
