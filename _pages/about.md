@@ -16,9 +16,9 @@ My research interest includes multi-agent reinforcement learning and its applica
 
 ## Publications
 
-__ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind__
+__<font size=4>ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind</font>__
 
-<img width="195" height="130" align="left" src="https://yuanfei-wang.github.io/images/ToM2C.png"/>
+<img width="195" height="140" align="left" src="https://yuanfei-wang.github.io/images/ToM2C.png"/>
 
 &nbsp; **Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang  
 &nbsp; The Tenth International Conference on Learning Representations  
