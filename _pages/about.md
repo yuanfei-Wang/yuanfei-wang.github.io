@@ -14,9 +14,9 @@ My research interest includes multi-agent reinforcement learning and its applica
 
 
 
-## Publications
+# Publications
 
-__<font size=4>ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind</font>__
+__<font size=5>ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind</font>__
 
 <img width="195" height="140" align="left" src="https://yuanfei-wang.github.io/images/ToM2C.png"/>
 
