@@ -1,16 +1,6 @@
----
-permalink: /
-title: "Welcome to Yuanfei Wang's Homepage"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ## About me
 
-I am currently a first-year Master student majoring in Computer Science at Peking University. I am a member of [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/index.htm), working with my advisor Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm).
+I am Yuanfei Wang, a first-year Master student majoring in Computer Science at Peking University. I am currently a member of [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/index.htm), working with my advisor Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm).
 
 My research interest includes multi-agent reinforcement learning and its application in building cooperative multi agent systems. 
 
@@ -22,9 +12,9 @@ __ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory o
 
 <img width="195" height="130" align="left" src="https://yuanfei-wang.github.io/images/ToM2C.png"/>
 
-&nbsp; **Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang  
-&nbsp; The Tenth International Conference on Learning Representations **(ICLR)**, April 25-29, 2022  
-&nbsp;  [\[Paper\]](https://arxiv.org/abs/2111.09189.pdf)
+&nbsp; &nbsp; **Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang  
+&nbsp; &nbsp; The Tenth International Conference on Learning Representations (**ICLR 2022**)  
+&nbsp; &nbsp;  [\[Paper\]](https://arxiv.org/abs/2111.09189)
 <br>
 
 
