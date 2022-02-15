@@ -16,12 +16,13 @@ My research interest includes multi-agent reinforcement learning and its applica
 
 ## Publications
 
-__[ICLR 2022]ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind__
+__ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind__
 
 <img width="195" height="130" align="left" src="https://yuanfei-wang.github.io/images/ToM2C.png"/>
 
 &nbsp; **Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang  
 &nbsp; The Tenth International Conference on Learning Representations  
+&nbsp; **ICLR 2022**
 &nbsp;   [\[Paper\]](https://arxiv.org/abs/2111.09189)
 <br>
 
