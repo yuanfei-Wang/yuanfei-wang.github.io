@@ -9,8 +9,8 @@
 locale                   : "Beijing-China"
 title                    : "Yuanfei Wang's Homepage"
 title_separator          : "-"
-name                     : &name "Yuanfei Wang"
-description              : &description "Master Student at Peking University"
+name                     : &name "Yuanfei Wang | 王远非"
+description              : &description "PhD Student at Peking University"
 url                      : https://yuanfei-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuanfei-wang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuanfei Wang"
   avatar           : "profile.png"
-  bio              : "Master student at Peking Unversity"
+  bio              : "PhD student at Peking Unversity"
   location         : "Bejing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Unisonner"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
