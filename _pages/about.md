@@ -16,7 +16,7 @@ My research interest lies in building autonomous agents that possess advanced ca
 
 Publications
 -----
-__<font size=4>Fast Peer Adaptation with Context-aware Exploration</font>__
+**<font size=4>Fast Peer Adaptation with Context-aware Exploration</font>**
 
 <img width="240" height="180" align="right" src="https://yuanfei-wang.github.io/images/PACE.png"/>
 Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zhu, Yizhou Wang <br>
@@ -25,7 +25,7 @@ The Forty-first International Conference on Machine Learning  <br>
 [\[Paper\]](https://arxiv.org/abs/2402.02468) <br>
 
 
-__<font size=4>ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind</font>__
+**<font size=4>ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind</font>**
 
 <img width="240" height="180" align="right" src="https://yuanfei-wang.github.io/images/ToM2C.png"/>
 **Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang  
