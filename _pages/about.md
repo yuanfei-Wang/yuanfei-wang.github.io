@@ -19,7 +19,7 @@ Publications
 __<font size=4>Fast Peer Adaptation with Context-aware Exploration</font>__
 
 <img width="240" height="180" align="right" src="https://yuanfei-wang.github.io/images/PACE.png"/>
-<div style="clear: both;"></div>
+
 Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zhu, Yizhou Wang <br>
 The Forty-first International Conference on Machine Learning  <br>
 **ICML 2024**  <br>
