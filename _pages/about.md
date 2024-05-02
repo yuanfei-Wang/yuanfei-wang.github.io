@@ -26,8 +26,9 @@ The Forty-first International Conference on Machine Learning  <br>
 [\[Paper\]](https://arxiv.org/abs/2402.02468)
 <br> -->
 
-__<font size=4>ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind</font>__
 <img width="195" height="140" align="right" src="https://yuanfei-wang.github.io/images/ToM2C.png"/>
+
+__<font size=4>ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind</font>__
 <br>
 **Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang  <br>
 The Tenth International Conference on Learning Representations  <br>
