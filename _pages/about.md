@@ -26,5 +26,14 @@ __<font size=4>ToM2C: Target-oriented Multi-agent Communication and Cooperation 
 &nbsp;   [\[Paper\]](https://arxiv.org/abs/2111.09189)[\[Code\]](https://github.com/UnrealTracking/ToM2C)
 <br>
 
+__<font size=4>ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind</font>__
+
+<img width="195" height="140" align="left" src="https://yuanfei-wang.github.io/images/ToM2C.png"/>
+
+&nbsp; **Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang  
+&nbsp; The Tenth International Conference on Learning Representations  
+&nbsp; **ICLR 2022**  
+&nbsp;   [\[Paper\]](https://arxiv.org/abs/2111.09189)[\[Code\]](https://github.com/UnrealTracking/ToM2C)
+<br>
 
 
