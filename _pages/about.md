@@ -18,7 +18,7 @@ Publications
 -----
 __<font size=4>Fast Peer Adaptation with Context-aware Exploration</font>__
 
-<img width="195" height="170" align="right" src="https://yuanfei-wang.github.io/images/PACE.png"/>
+<img height="150" align="right" src="https://yuanfei-wang.github.io/images/PACE.png"/>
 
 &nbsp; Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zhu, Yizhou Wang <br>
 &nbsp; The Forty-first International Conference on Machine Learning  <br>
@@ -27,7 +27,7 @@ __<font size=4>Fast Peer Adaptation with Context-aware Exploration</font>__
 
 __<font size=4>ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind</font>__
 
-<img width="195" height="170" align="right" src="https://yuanfei-wang.github.io/images/ToM2C.png"/>
+<img height="150" align="right" src="https://yuanfei-wang.github.io/images/ToM2C.png"/>
 
 &nbsp; **Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang  
 &nbsp; The Tenth International Conference on Learning Representations  
