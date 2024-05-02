@@ -20,9 +20,9 @@ __<font size=4>Fast Peer Adaptation with Context-aware Exploration</font>__
 
 <img width="195" height="140" align="left" src="https://yuanfei-wang.github.io/images/PACE.png"/>
 
-&nbsp; Long Ma<sup>*</sup>, **Yuanfei Wang<sup>*</sup>**, Fangwei Zhong, Song-Chun Zhu, Yizhou Wang
-&nbsp; The Forty-first International Conference on Machine Learning  
-&nbsp; **ICML 2024**  
+&nbsp; Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zhu, Yizhou Wang <br>
+&nbsp; The Forty-first International Conference on Machine Learning  <br>
+&nbsp; **ICML 2024**  <br>
 &nbsp;   [\[Paper\]](https://arxiv.org/abs/2402.02468)
 <br>
 
@@ -30,9 +30,9 @@ __<font size=4>ToM2C: Target-oriented Multi-agent Communication and Cooperation 
 
 <img width="195" height="140" align="left" src="https://yuanfei-wang.github.io/images/ToM2C.png"/>
 
-&nbsp; **Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang  
-&nbsp; The Tenth International Conference on Learning Representations  
-&nbsp; **ICLR 2022**  
+&nbsp; **Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang  <br>
+&nbsp; The Tenth International Conference on Learning Representations  <br>
+&nbsp; **ICLR 2022**  <br>
 &nbsp;   [\[Paper\]](https://arxiv.org/abs/2111.09189)[\[Code\]](https://github.com/UnrealTracking/ToM2C)
 <br>
 
