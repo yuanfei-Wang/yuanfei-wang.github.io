@@ -25,5 +25,3 @@ __<font size=4>ToM2C: Target-oriented Multi-agent Communication and Cooperation 
 &nbsp; **ICLR 2022**  
 &nbsp;   [\[Paper\]](https://arxiv.org/abs/2111.09189)[\[Code\]](https://github.com/UnrealTracking/ToM2C)
 <br>
-
-
