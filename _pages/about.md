@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the School of Computer Science at Peking University, advised by Prof. [Hao Dong](https://zsdonghao.github.io/). Previously I was under the supervision of Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm) in the [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/index.htm), PKU. I obtained my Bachelor degree in 2021, from the School of Electronics Engineering and Computer Science of Peking University.
+I am a fourth-year PhD student in the School of Computer Science at Peking University, advised by Prof. [Hao Dong](https://zsdonghao.github.io/). Previously I was under the supervision of Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm) in the [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/index.htm), PKU. I obtained my Bachelor degree in 2021, from the School of Electronics Engineering and Computer Science of Peking University.
 
 My research interest lies in building autonomous agents that possess advanced capabilities and align with human values. Specifically, I focus on robot learning, LLM-based Agent and multi-agent reinforcement learning. 
 
