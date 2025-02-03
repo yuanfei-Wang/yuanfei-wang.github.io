@@ -27,6 +27,7 @@ My research interest lies in building adaptive embodied agents that align with h
 - *2024.05*:&nbsp; One paper accepted at ICML 2024! 🎉
 
 # 📝 Publications 
+* denotes equal contribution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/AdaManip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,12 +57,12 @@ ICML 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ToM2C.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/ToM2C.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind**](https://arxiv.org/abs/2111.09189)
 
-Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zhu, Yizhou Wang 
+**Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang 
 
 ICLR 2022
 
@@ -71,7 +72,7 @@ ICLR 2022
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Schlumberger Scholarship, Peking University
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
