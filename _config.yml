@@ -21,7 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuanfei Wang  \n   王远非"
+  name             : |
+                    "Yuanfei Wang"
+                    "王远非"
   avatar           : "images/self_shape.jpg"
   bio              : "Lorem ipsum College"
   location         : "Beijing, China"
