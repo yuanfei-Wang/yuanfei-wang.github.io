@@ -23,25 +23,40 @@ I am a fourth-year PhD student in the School of Computer Science at Peking Unive
 My research interest lies in building adaptive embodied agents that align with human values. Specifically, I focus on Robot Learning, LLM-based Agent and Reinforcement Learning. 
 
 # 🔥 News
-- *2025.01*: &nbsp; One paper accepted at ICLR 2025! 🎉
-- *2024.05*: &nbsp; One paper accepted at ICML 2024! 🎉
+- *2025.01*:&nbsp; One paper accepted at ICLR 2025! 🎉
+- *2024.05*:&nbsp; One paper accepted at ICML 2024! 🎉
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/AdaManip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size=4>AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning</font>
+[**AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning**](https://openreview.net/forum?id=Luss2sa0vc)
 
 **Yuanfei Wang<sup>\*</sup>**, Xiaojie Zhang<sup>\*</sup>, Ruihai Wu<sup>\*</sup>, Yu Li, Yan Shen, Mingdong Wu, Zhaofeng He,
 Yizhou Wang, Hao Dong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ICLR 2025
+
+[Project Page]() [Paper](https://openreview.net/forum?id=Luss2sa0vc) [Code]() 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/PACE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Fast Peer Adaptation with Context-aware Exploration**](https://arxiv.org/abs/2402.02468)
+
+Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zhu, Yizhou Wang 
+
+ICML 2024
+
+[**Project Page**](https://sites.google.com/view/peer-adaptation) [Paper](https://arxiv.org/abs/2402.02468) [Code](https://github.com/linkct/PACE) 
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
