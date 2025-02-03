@@ -21,11 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : |
-                    Yuanfei Wang
-                    王远非
+  name             : "Yuanfei Wang"s
   avatar           : "images/self_shape.jpg"
-  bio              : "Peking University"
+  bio              : "王远非"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -39,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yuanfei-Wang"
+  github           : yuanfei-Wang
   google_plus      :
   keybase          :
   instagram        :
