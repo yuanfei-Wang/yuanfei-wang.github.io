@@ -72,16 +72,20 @@ Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zh
 
 
 # 🎖 Honors and Awards
-- *2021.10* Schlumberger Scholarship, Peking University
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Samsung Scholarship, *Peking University, 2022.09*
+- Third Class Scholarship, *Peking University, 2020.09*
+- Schlumberger Scholarship, *Peking University, 2019.09* 
+- Outstanding Graduate Award, *Peking University, 2021.06*
+- Merit Student Award, *Peking University, 2019,2020,2022*
+- Academic Excellence Award, *Peking University, 2018,2023*
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D. in Computer Science, Peking University
-- *2017.09 - 2021.06*, B.Sc. in Intelligence of Science and Technology, Peking University
+- *2021.09 - now*: Ph.D. in Computer Science, Peking University
+- *2017.09 - 2021.06*: B.Sc. in Intelligence Science and Technology, Peking University
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.07*: Multi-Agent Communication and Cooperation with Theory of Mind, *RLChina Forum*. [Video](http://rlchina.org/topic/459)
+- *2022.05*: Cognition Inspired Multi-Agent Communication and Cooperation, *Beijing Institute for General Artificial Intelligence(BIGAI)*.
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
