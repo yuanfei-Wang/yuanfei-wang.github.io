@@ -17,22 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font size=4>
+
 I am a fourth-year PhD student in the School of Computer Science at Peking University, advised by Prof. [Hao Dong](https://zsdonghao.github.io/). Previously I was under the supervision of Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm) in the [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/index.htm), PKU. I obtained my Bachelor degree in 2021, from the School of Electronics Engineering and Computer Science of Peking University.
 
 My research interest lies in building adaptive embodied agents that align with human values. Specifically, I focus on Robot Learning, LLM-based Agent and Reinforcement Learning. 
-</font>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: &nbsp; One paper accepted at ICLR 2025! 🎉
+- *2024.05*: &nbsp; One paper accepted at ICML 2024! 🎉
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/AdaManip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<font size=4>AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning</font>
 
 **Yuanfei Wang<sup>\*</sup>**, Xiaojie Zhang<sup>\*</sup>, Ruihai Wu<sup>\*</sup>, Yu Li, Yan Shen, Mingdong Wu, Zhaofeng He,
 Yizhou Wang, Hao Dong
