@@ -38,7 +38,7 @@ Yizhou Wang, Hao Dong
 
 ICLR 2025
 
-[Project Page]() [Paper](https://openreview.net/forum?id=Luss2sa0vc) [Code]() 
+[[Webpage]()] [[Paper](https://openreview.net/forum?id=Luss2sa0vc)] [[Code]()] 
 </div>
 </div>
 
@@ -52,7 +52,7 @@ Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zh
 
 ICML 2024
 
-[**Project Page**](https://sites.google.com/view/peer-adaptation) [Paper](https://arxiv.org/abs/2402.02468) [Code](https://github.com/linkct/PACE) 
+[[Webpage](https://sites.google.com/view/peer-adaptation)] [[Paper](https://arxiv.org/abs/2402.02468)] [[Code](https://github.com/linkct/PACE)]
 </div>
 </div>
 
@@ -70,5 +70,5 @@ ICML 2024
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
