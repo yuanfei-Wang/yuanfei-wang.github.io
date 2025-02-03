@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanfei Wang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "CS PhD Student at Peking University"
 repository               : "yuanfei-Wang/yuanfei-wang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,15 +22,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : |
-                    "Yuanfei Wang"
-                    "王远非"
+                    Yuanfei Wang
+                    王远非
   avatar           : "images/self_shape.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SMCpgE4AAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "yuanfei_wang@pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/yuanfei-Wang"
   google_plus      :
   keybase          :
   instagram        :
