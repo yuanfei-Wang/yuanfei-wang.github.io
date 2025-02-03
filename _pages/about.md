@@ -84,7 +84,7 @@ Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zh
 - *2017.09 - 2021.06*: **B.Sc. in Intelligence Science and Technology, Peking University**
 
 # 💬 Invited Talks
-- *2022.07*: Multi-Agent Communication and Cooperation with Theory of Mind, *RLChina Forum*. [Video](http://rlchina.org/topic/459)[bilibili](https://www.bilibili.com/video/BV1Ua411D7uL/?spm_id_from=888.80997.embed_other.whitelist&t=4.405066&bvid=BV1Ua411D7uL&vd_source=b552b2b1cbbf5446bfc51d3ffaafca48)
+- *2022.07*: Multi-Agent Communication and Cooperation with Theory of Mind, *RLChina Forum*. [[Video](http://rlchina.org/topic/459)] [[bilibili](https://www.bilibili.com/video/BV1Ua411D7uL/?spm_id_from=888.80997.embed_other.whitelist&t=4.405066&bvid=BV1Ua411D7uL&vd_source=b552b2b1cbbf5446bfc51d3ffaafca48)]
 - *2022.05*: Cognition Inspired Multi-Agent Communication and Cooperation, *Beijing Institute for General Artificial Intelligence(BIGAI)*.
 
 <!-- # 💻 Internships
