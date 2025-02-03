@@ -56,6 +56,18 @@ ICML 2024
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ToM2C.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind**](https://arxiv.org/abs/2111.09189)
+
+Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zhu, Yizhou Wang 
+
+ICLR 2022
+
+[[Paper](https://arxiv.org/abs/2111.09189)] [[Code](https://github.com/UnrealTracking/ToM2C)]
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
