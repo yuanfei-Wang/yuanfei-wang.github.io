@@ -27,7 +27,7 @@ My research interest lies in building adaptive embodied agents that align with h
 - *2024.05*:&nbsp; One paper accepted at ICML 2024! 🎉
 
 # 📝 Publications 
-* denotes equal contribution
+\* denotes equal contribution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/AdaManip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,7 +37,7 @@ My research interest lies in building adaptive embodied agents that align with h
 **Yuanfei Wang<sup>\*</sup>**, Xiaojie Zhang<sup>\*</sup>, Ruihai Wu<sup>\*</sup>, Yu Li, Yan Shen, Mingdong Wu, Zhaofeng He,
 Yizhou Wang, Hao Dong
 
-ICLR 2025
+*International Conference on Learning Representations **(ICLR)** 2025*
 
 [[Webpage]()] [[Paper](https://openreview.net/forum?id=Luss2sa0vc)] [[Code]()] 
 </div>
@@ -51,7 +51,7 @@ ICLR 2025
 
 Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zhu, Yizhou Wang 
 
-ICML 2024
+*International Conference on Machine Learning **(ICML)** 2024*
 
 [[Webpage](https://sites.google.com/view/peer-adaptation)] [[Paper](https://arxiv.org/abs/2402.02468)] [[Code](https://github.com/linkct/PACE)]
 </div>
@@ -64,7 +64,7 @@ ICML 2024
 
 **Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang 
 
-ICLR 2022
+*International Conference on Learning Representations **(ICLR)** 2022*
 
 [[Paper](https://arxiv.org/abs/2111.09189)] [[Code](https://github.com/UnrealTracking/ToM2C)]
 </div>
@@ -76,8 +76,8 @@ ICLR 2022
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - now*, Ph.D. in Computer Science, Peking University
+- *2017.09 - 2021.06*, B.Sc. in Intelligence of Science and Technology, Peking University
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
