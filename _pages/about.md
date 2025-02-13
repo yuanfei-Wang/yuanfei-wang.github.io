@@ -39,7 +39,7 @@ Yizhou Wang, Hao Dong
 
 *International Conference on Learning Representations **(ICLR)** 2025*
 
-[[Webpage]()] [[Paper](https://openreview.net/forum?id=Luss2sa0vc)] [[Code]()] 
+[[Webpage](https://adamanip.github.io/)] [[Paper](https://openreview.net/forum?id=Luss2sa0vc)] [[Code]()] 
 </div>
 </div>
 
@@ -62,7 +62,7 @@ Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zh
 
 [**ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind**](https://arxiv.org/abs/2111.09189)
 
-**Yuanfei Wang**, Fangwei Zhong, Jing Xu, Yizhou Wang 
+**Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong<sup>\*</sup>, Jing Xu, Yizhou Wang 
 
 *International Conference on Learning Representations **(ICLR)** 2022*
 
