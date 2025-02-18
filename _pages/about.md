@@ -32,14 +32,14 @@ My research interest lies in building adaptive embodied agents that align with h
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/AdaManip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning**](https://openreview.net/forum?id=Luss2sa0vc)
+[**AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning**](https://arxiv.org/abs/2502.11124)
 
 **Yuanfei Wang<sup>\*</sup>**, Xiaojie Zhang<sup>\*</sup>, Ruihai Wu<sup>\*</sup>, Yu Li, Yan Shen, Mingdong Wu, Zhaofeng He,
 Yizhou Wang, Hao Dong
 
 *International Conference on Learning Representations **(ICLR)** 2025*
 
-[[Webpage](https://adamanip.github.io/)] [[Paper](https://openreview.net/forum?id=Luss2sa0vc)] [[Code]()] 
+[[Webpage](https://adamanip.github.io/)] [[Paper](https://arxiv.org/abs/2502.11124)] [[Code]()] 
 </div>
 </div>
 
