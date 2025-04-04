@@ -43,14 +43,14 @@ Yizhou Wang, Hao Dong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/LLM2Reward.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/LLM2Rewards.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**LLM2Rewards: Boosting Universal LLM Reward Design through Heuristic Reward Observation Space Evolution**](https://jingjjjjjie.github.io/LLM2Rewards/)
 
 Zen Kit Heng<sup>†</sup>, Zimeng Zhao<sup>†</sup>, Tianhao Wu<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Mingdong Wu, Yangang Wang, Hao Dong
 
-*arxiv preprint*
+*arxiv preprint, in submission*
 
 [[Webpage](https://jingjjjjjie.github.io/LLM2Rewards/)] [[Paper](https://jingjjjjjie.github.io/LLM2Rewards/)] 
 </div>
