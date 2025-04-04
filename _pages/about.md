@@ -29,19 +29,6 @@ My research interest lies in building adaptive embodied agents that align with h
 # 📝 Publications 
 \* denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/LLM2Reward.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**LLM2Rewards: Boosting Universal LLM Reward Design through Heuristic Reward Observation Space Evolution**](https://jingjjjjjie.github.io/LLM2Rewards/)
-
-Zen Kit Heng<sup>\†</sup>, Zimeng Zhao<sup>\†</sup>, Tianhao Wu<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Mingdong Wu, Yangang Wang, Hao Dong
-
-*arxiv preprint*
-
-[[Webpage](https://jingjjjjjie.github.io/LLM2Rewards/)] [[Paper](https://jingjjjjjie.github.io/LLM2Rewards/)] 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/AdaManip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,6 +43,18 @@ Yizhou Wang, Hao Dong
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/LLM2Reward.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**LLM2Rewards: Boosting Universal LLM Reward Design through Heuristic Reward Observation Space Evolution**](https://jingjjjjjie.github.io/LLM2Rewards/)
+
+Zen Kit Heng<sup>†</sup>, Zimeng Zhao<sup>†</sup>, Tianhao Wu<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Mingdong Wu, Yangang Wang, Hao Dong
+
+*arxiv preprint*
+
+[[Webpage](https://jingjjjjjie.github.io/LLM2Rewards/)] [[Paper](https://jingjjjjjie.github.io/LLM2Rewards/)] 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/PACE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
