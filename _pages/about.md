@@ -39,7 +39,7 @@ Yizhou Wang, Hao Dong
 
 *International Conference on Learning Representations **(ICLR)** 2025*
 
-[[Webpage](https://adamanip.github.io/)] [[Paper](https://arxiv.org/abs/2502.11124)] [[Code]()] 
+[[Webpage](https://adamanip.github.io/)] [[Paper](https://arxiv.org/abs/2502.11124)] [[Code](https://github.com/yuanfei-Wang/AdaManip)] 
 </div>
 </div>
 
