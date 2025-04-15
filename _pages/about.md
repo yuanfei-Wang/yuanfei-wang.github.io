@@ -23,6 +23,7 @@ I am a fourth-year PhD student in the School of Computer Science at Peking Unive
 My research interest lies in building adaptive embodied agents that align with human values. Specifically, I focus on Robot Learning, LLM-based Agent and Reinforcement Learning. 
 
 # 🔥 News
+- *2025.04*:&nbsp; AdaManip Code Release! Check our [repository](https://github.com/yuanfei-Wang/AdaManip)!
 - *2025.01*:&nbsp; One paper accepted at ICLR 2025! 🎉
 - *2024.05*:&nbsp; One paper accepted at ICML 2024! 🎉
 
