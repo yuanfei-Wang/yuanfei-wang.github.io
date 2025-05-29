@@ -44,6 +44,19 @@ Yizhou Wang, Hao Dong
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/FAMER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**From Strangers to Assistants: Fast Desire Alignment for Embodied Agent-User Adaptation**](https://arxiv.org/abs/2505.22503)
+
+**Yuanfei Wang**, Xinju Huang, Fangwei Zhong, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong
+
+*arxiv preprint, in submission*
+
+[[Paper](https://arxiv.org/abs/2505.22503)] 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/LLM2Rewards.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
