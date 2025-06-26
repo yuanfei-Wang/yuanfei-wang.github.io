@@ -45,7 +45,7 @@ Yizhou Wang, Hao Dong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/AdaRPG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/AdaRPG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding**
