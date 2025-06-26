@@ -54,7 +54,7 @@ Xiaojie Zhang<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Ruihai Wu<sup>\*</sup
 
 *International Conference on Computer Vision **(ICCV)** 2025*
 
-Paper(Coming Soon)
+[Paper(Coming Soon)]
 </div>
 </div>
 
