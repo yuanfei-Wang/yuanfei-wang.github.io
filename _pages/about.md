@@ -23,9 +23,10 @@ I am a fourth-year PhD student in the School of Computer Science at Peking Unive
 My research interest lies in building adaptive embodied agents that align with human values. Specifically, I focus on Robot Learning, LLM-based Agent and Reinforcement Learning. 
 
 # 🔥 News
+- *2025.06*:&nbsp; AdaRPG accepted at ICCV 2025! 🎉
 - *2025.04*:&nbsp; AdaManip Code Release! Check our [repository](https://github.com/yuanfei-Wang/AdaManip)!
-- *2025.01*:&nbsp; One paper accepted at ICLR 2025! 🎉
-- *2024.05*:&nbsp; One paper accepted at ICML 2024! 🎉
+- *2025.01*:&nbsp; AdaManip accepted at ICLR 2025! 🎉
+- *2024.05*:&nbsp; PACE accepted at ICML 2024! 🎉
 
 # 📝 Publications 
 \* denotes equal contribution
@@ -41,6 +42,19 @@ Yizhou Wang, Hao Dong
 *International Conference on Learning Representations **(ICLR)** 2025*
 
 [[Webpage](https://adamanip.github.io/)] [[Paper](https://arxiv.org/abs/2502.11124)] [[Code](https://github.com/yuanfei-Wang/AdaManip)] [[Video](https://www.youtube.com/watch?v=YPJsvSO83RE)] 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/AdaRPG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding**
+
+Xiaojie Zhang<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Ruihai Wu<sup>\*</sup>, Kunqi Xu, Yu Li, Liuyu Xiang, Hao Dong, Zhaofeng He
+
+*International Conference on Computer Vision **(ICCV)** 2025*
+
+Paper(Coming Soon)
 </div>
 </div>
 
