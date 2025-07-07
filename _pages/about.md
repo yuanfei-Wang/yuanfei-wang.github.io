@@ -121,7 +121,7 @@ Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zh
 
 # 📖 Educations
 - *2021.09 - now*: **Ph.D. in Computer Science, Peking University**
-- *2017.09 - 2021.06*: **B.Sc. in Intelligence Science and Technology, Peking University**
+- *2017.09 - 2021.06*: **B.Sc. in Artificial Intelligence, Peking University**
 
 # 💬 Invited Talks
 - *2025.07*: Adaptive Articulated Object Manipulation: Simulation and Generalizable Policy, *3D Vision Workshop*. [[Video](https://www.bilibili.com/video/BV1mK3yzjEri/?t=1.9&vd_source=b552b2b1cbbf5446bfc51d3ffaafca48)]
