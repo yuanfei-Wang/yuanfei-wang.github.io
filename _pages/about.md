@@ -48,13 +48,13 @@ Yizhou Wang, Hao Dong
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/AdaRPG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding**
+[**Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding**](https://arxiv.org/abs/2507.18276)
 
 Xiaojie Zhang<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Ruihai Wu<sup>\*</sup>, Kunqi Xu, Yu Li, Liuyu Xiang, Hao Dong, Zhaofeng He
 
 *International Conference on Computer Vision **(ICCV)** 2025*
 
-[Paper(Coming Soon)]
+[[Paper](https://arxiv.org/abs/2507.18276)]
 </div>
 </div>
 
