@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a fifth-year PhD student in the School of Computer Science at Peking University, advised by Prof. [Hao Dong](https://zsdonghao.github.io/). Previously I was under the supervision of Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm) in the [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/index.htm), PKU. I obtained my Bachelor degree in 2021, from the School of Electronics Engineering and Computer Science of Peking University.
+I am a fifth-year PhD student in the [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/index.htm), School of Computer Science at Peking University, advised by Prof. [Hao Dong](https://zsdonghao.github.io/) 
+and Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm).
+I obtained my Bachelor degree in 2021, from the School of Electronics Engineering and Computer Science of Peking University.
 
 My research interest lies in building adaptive embodied agents that align with human values. Specifically, I focus on Robot Learning, Reinforcement Learning and LLM-based Agent. 
 
