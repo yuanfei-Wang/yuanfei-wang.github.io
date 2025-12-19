@@ -23,6 +23,7 @@ I am a fifth-year PhD student in the School of Computer Science at Peking Univer
 My research interest lies in building adaptive embodied agents that align with human values. Specifically, I focus on Robot Learning, Reinforcement Learning and LLM-based Agent. 
 
 # 🔥 News
+- *2025.12*:&nbsp; One paper accepted at AAMAS 2026! 🎉
 - *2025.06*:&nbsp; AdaRPG accepted at ICCV 2025! 🎉
 - *2025.04*:&nbsp; AdaManip Code Release! Check our [repository](https://github.com/yuanfei-Wang/AdaManip)!
 - *2025.01*:&nbsp; AdaManip accepted at ICLR 2025! 🎉
@@ -30,6 +31,19 @@ My research interest lies in building adaptive embodied agents that align with h
 
 # 📝 Publications 
 \* denotes equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2026</div><img src='images/IPD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**IPD: Boosting Sequential Policy with Imaginary Planning Distillation in Offline Reinforcement Learning**]()
+
+Yihao Qin<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Hang Zhou, Peiran Liu, Hao Dong, Yiding Ji
+
+*International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)** 2026*
+
+[[Paper(Coming Soon)]()]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/AdaManip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
