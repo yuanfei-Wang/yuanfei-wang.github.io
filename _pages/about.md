@@ -37,13 +37,13 @@ My research interest lies in building adaptive embodied agents that align with h
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2026</div><img src='images/IPD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**IPD: Boosting Sequential Policy with Imaginary Planning Distillation in Offline Reinforcement Learning**]()
+[**IPD: Boosting Sequential Policy with Imaginary Planning Distillation in Offline Reinforcement Learning**](http://arxiv.org/abs/2603.04289)
 
 Yihao Qin<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Hang Zhou, Peiran Liu, Hao Dong, Yiding Ji
 
 *International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)** 2026*
 
-[[Paper(Coming Soon)]()]
+[[Paper](http://arxiv.org/abs/2603.04289)]
 </div>
 </div>
 
