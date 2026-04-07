@@ -25,6 +25,7 @@ I obtained my Bachelor degree in 2021, from the School of Electronics Engineerin
 My research interest lies in building adaptive embodied agents that align with human values. Specifically, I focus on Robot Learning, Reinforcement Learning and LLM-based Agent. 
 
 # 🔥 News
+- *2025.12*:&nbsp; One paper accepted at ACL 2026! 🎉
 - *2025.12*:&nbsp; One paper accepted at AAMAS 2026! 🎉
 - *2025.06*:&nbsp; AdaRPG accepted at ICCV 2025! 🎉
 - *2025.04*:&nbsp; AdaManip Code Release! Check our [repository](https://github.com/yuanfei-Wang/AdaManip)!
@@ -34,6 +35,19 @@ My research interest lies in building adaptive embodied agents that align with h
 # 📝 Publications 
 \* denotes equal contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/FAMER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Communication-Efficient Desire Alignment for Embodied Agent-Human Adaptation**](https://arxiv.org/abs/2505.22503)
+
+**Yuanfei Wang**, Xinju Huang, Fangwei Zhong, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong
+
+***Annual Meeting of the Association for Computational Linguistics (ACL) 2026, Main***
+
+[[Paper](https://arxiv.org/abs/2505.22503)] 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2026</div><img src='images/IPD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,7 +55,7 @@ My research interest lies in building adaptive embodied agents that align with h
 
 Yihao Qin<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Hang Zhou, Peiran Liu, Hao Dong, Yiding Ji
 
-*International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)** 2026*
+***International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) 2026***
 
 [[Paper](http://arxiv.org/abs/2603.04289)]
 </div>
@@ -55,7 +69,7 @@ Yihao Qin<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Hang Zhou, Peiran Liu, Ha
 **Yuanfei Wang<sup>\*</sup>**, Xiaojie Zhang<sup>\*</sup>, Ruihai Wu<sup>\*</sup>, Yu Li, Yan Shen, Mingdong Wu, Zhaofeng He,
 Yizhou Wang, Hao Dong
 
-*International Conference on Learning Representations **(ICLR)** 2025*
+***International Conference on Learning Representations (ICLR) 2025***
 
 [[Webpage](https://adamanip.github.io/)] [[Paper](https://arxiv.org/abs/2502.11124)] [[Code](https://github.com/yuanfei-Wang/AdaManip)] [[Video](https://www.youtube.com/watch?v=YPJsvSO83RE)] 
 </div>
@@ -81,22 +95,9 @@ Yifan Zhong, Fengshuo Bai, Shaofei Cai, Xuchuan Huang, Zhang Chen, Xiaowei Zhang
 
 Xiaojie Zhang<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Ruihai Wu<sup>\*</sup>, Kunqi Xu, Yu Li, Liuyu Xiang, Hao Dong, Zhaofeng He
 
-*International Conference on Computer Vision **(ICCV)** 2025*
+***International Conference on Computer Vision (ICCV) 2025***
 
 [[Paper](https://arxiv.org/abs/2507.18276)]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/FAMER.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Communication-Efficient Desire Alignment for Embodied Agent-Human Adaptation**](https://arxiv.org/abs/2505.22503)
-
-**Yuanfei Wang**, Xinju Huang, Fangwei Zhong, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong
-
-*arxiv preprint, in submission*
-
-[[Paper](https://arxiv.org/abs/2505.22503)] 
 </div>
 </div>
 
@@ -120,7 +121,7 @@ Zen Kit Heng<sup>†</sup>, Zimeng Zhao<sup>†</sup>, Tianhao Wu<sup>\*</sup>, 
 
 Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zhu, Yizhou Wang 
 
-*International Conference on Machine Learning **(ICML)** 2024*
+***International Conference on Machine Learning (ICML) 2024***
 
 [[Webpage](https://sites.google.com/view/peer-adaptation)] [[Paper](https://arxiv.org/abs/2402.02468)] [[Code](https://github.com/linkct/PACE)]
 </div>
@@ -133,7 +134,7 @@ Long Ma<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong, Song-Chun Zh
 
 **Yuanfei Wang<sup>\*</sup>**, Fangwei Zhong<sup>\*</sup>, Jing Xu, Yizhou Wang 
 
-*International Conference on Learning Representations **(ICLR)** 2022*
+***International Conference on Learning Representations (ICLR) 2022***
 
 [[Paper](https://arxiv.org/abs/2111.09189)] [[Code](https://github.com/UnrealTracking/ToM2C)]
 </div>
