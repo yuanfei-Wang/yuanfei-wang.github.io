@@ -35,7 +35,7 @@ My research interest lies in building adaptive embodied agents that align with h
 # 📝 Publications 
 \* denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/FAMER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/FAMER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Communication-Efficient Desire Alignment for Embodied Agent-Human Adaptation**](https://arxiv.org/abs/2505.22503)
