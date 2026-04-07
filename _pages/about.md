@@ -25,7 +25,7 @@ I obtained my Bachelor degree in 2021, from the School of Electronics Engineerin
 My research interest lies in building adaptive embodied agents that align with human values. Specifically, I focus on Robot Learning, Reinforcement Learning and LLM-based Agent. 
 
 # 🔥 News
-- *2025.12*:&nbsp; One paper accepted at ACL 2026! 🎉
+- *2026.04*:&nbsp; One paper accepted at ACL 2026! 🎉
 - *2025.12*:&nbsp; One paper accepted at AAMAS 2026! 🎉
 - *2025.06*:&nbsp; AdaRPG accepted at ICCV 2025! 🎉
 - *2025.04*:&nbsp; AdaManip Code Release! Check our [repository](https://github.com/yuanfei-Wang/AdaManip)!
