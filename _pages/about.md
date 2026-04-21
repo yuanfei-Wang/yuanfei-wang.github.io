@@ -35,6 +35,19 @@ My research interest lies in building adaptive embodied agents that align with h
 # 📝 Publications 
 \* denotes equal contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/worldcomposer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**WorldComposer: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation**](https://arxiv.org/abs/2604.15805)
+
+Jasper Lu<sup>\*</sup>, Zhenhao Shen<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**, Shugao Liu, Shengqiang Xu, Shawn Xie, Jingkai Xu, Feng Jiang, Jade Yang, Chen Xie, Ruihai Wu
+
+*arxiv preprint, in submission*
+
+[[Webpage](https://stubborn111.github.io/WorldComposer/)] [[Paper](https://arxiv.org/abs/2604.15805)] [[Code](https://github.com/jaber628/WorldComposer)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/FAMER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
