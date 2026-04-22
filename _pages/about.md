@@ -48,6 +48,19 @@ Jasper Lu<sup>\*</sup>, Zhenhao Shen<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/RoboWM-Bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation**](https://arxiv.org/abs/2604.19092)
+
+Feng Jiang, Yang Chen, Kyle Xu, Yuchen Liu, Haifeng Wang, Zhenhao Shen, Jasper Lu, Shengze Huang, **Yuanfei Wang**, Chen Xie, Ruihai Wu
+
+*arxiv preprint, in submission*
+
+[[Webpage](https://robowm-bench.github.io/RoboWM-Bench/)] [[Paper](https://arxiv.org/abs/2604.19092)] [[Code](https://github.com/fffstrong/RoboWM-Bench)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/FAMER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
