@@ -48,6 +48,19 @@ Jasper Lu<sup>\*</sup>, Zhenhao Shen<sup>\*</sup>, **Yuanfei Wang<sup>\*</sup>**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/safelab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics**]()
+
+Fengshuo Bai, Yufeng Li, Ruihai Wu, Peishuo Wang, Yuhan Wang, Bernie Hao Zhu, **Yuanfei Wang**, Tawei Chou, Jing Gao, Runchuan Zhu, Ying Wen, Yaodong Yang, Yuanpei Chen
+
+*International Conference on Machine Learning (ICML) 2026*
+
+[[Paper]()]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/RoboWM-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
